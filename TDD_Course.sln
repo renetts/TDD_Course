@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Course", "TDD_Course\TDD_Course.csproj", "{B600C5EF-D4D7-4CB7-ADB1-4285A5751C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldUnitTesting", "HelloWorldUnitTesting\HelloWorldUnitTesting.csproj", "{6550061A-7FC8-4078-A701-137163A14C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{435A9091-DC77-4ADB-B8CA-05C6BD134F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockingUnitTesting", "MockingUnitTesting\MockingUnitTesting.csproj", "{477654F1-1169-47EF-A2EA-A8E4EE7D61B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumbers", "RomanNumbers\RomanNumbers.csproj", "{C230768F-4E83-4ABB-9F01-B9AEC7E8F402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{D5C01931-8DEE-4C00-BEA4-389205115E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B600C5EF-D4D7-4CB7-ADB1-4285A5751C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B600C5EF-D4D7-4CB7-ADB1-4285A5751C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B600C5EF-D4D7-4CB7-ADB1-4285A5751C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B600C5EF-D4D7-4CB7-ADB1-4285A5751C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6550061A-7FC8-4078-A701-137163A14C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6550061A-7FC8-4078-A701-137163A14C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6550061A-7FC8-4078-A701-137163A14C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6550061A-7FC8-4078-A701-137163A14C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435A9091-DC77-4ADB-B8CA-05C6BD134F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435A9091-DC77-4ADB-B8CA-05C6BD134F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435A9091-DC77-4ADB-B8CA-05C6BD134F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435A9091-DC77-4ADB-B8CA-05C6BD134F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477654F1-1169-47EF-A2EA-A8E4EE7D61B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477654F1-1169-47EF-A2EA-A8E4EE7D61B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477654F1-1169-47EF-A2EA-A8E4EE7D61B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477654F1-1169-47EF-A2EA-A8E4EE7D61B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C230768F-4E83-4ABB-9F01-B9AEC7E8F402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C230768F-4E83-4ABB-9F01-B9AEC7E8F402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C230768F-4E83-4ABB-9F01-B9AEC7E8F402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C230768F-4E83-4ABB-9F01-B9AEC7E8F402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C01931-8DEE-4C00-BEA4-389205115E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C01931-8DEE-4C00-BEA4-389205115E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C01931-8DEE-4C00-BEA4-389205115E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C01931-8DEE-4C00-BEA4-389205115E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9201462B-DFB4-4C86-9ABB-9FB17EB80193}
+	EndGlobalSection
+EndGlobal
